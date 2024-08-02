@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2024-07-05T17:39:09.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-FlxMsxaZh_tAvK9ixwi" version="24.6.4" type="device">
+  <diagram name="Page-1" id="51mQL6gIBRBD9eNsijb1">
+    <mxGraphModel dx="1166" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UCwTUBaybLPNziN7kzde-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#E07A5F;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=none;fillColor=#F2CC8F;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" width="800" height="741" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-3" value="habesha store" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#393C56;align=left;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;rounded=1;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-4" value="https://www.habeshastore.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#393C56;align=left;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;rounded=1;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-18" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBorderColor=none;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="40" y="121" width="660" height="599" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-19" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="270" y="300" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-20" value="Sign In" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#393C56;align=left;resizeWidth=1;spacingLeft=0;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-21" value="" style="shape=line;strokeColor=#E07A5F;strokeWidth=2;html=1;resizeWidth=1;labelBackgroundColor=none;fillColor=#F2CC8F;fontColor=#393C56;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry width="180" height="10" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-22" value="User Name:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#393C56;align=left;resizeWidth=1;spacingLeft=0;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-23" value="johndoe" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#E07A5F;fontColor=#393C56;align=left;spacingLeft=5;resizeWidth=1;labelBackgroundColor=none;fillColor=#F2CC8F;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry width="150" height="25" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-24" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#393C56;align=left;resizeWidth=1;spacingLeft=0;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="95" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-25" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#E07A5F;fontColor=#393C56;align=left;spacingLeft=5;resizeWidth=1;labelBackgroundColor=none;fillColor=#F2CC8F;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry width="150" height="25" relative="1" as="geometry">
+            <mxPoint x="10" y="115" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-26" value="SIGN IN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#393C56;fillColor=#F2CC8F;fontSize=16;fontStyle=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="-150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-27" value="Forgot Password?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#393C56;align=left;spacingLeft=0;fontStyle=4;resizeWidth=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry y="1" width="150" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-28" value="" style="shape=line;strokeColor=#E07A5F;strokeWidth=2;html=1;resizeWidth=1;labelBackgroundColor=none;fillColor=#F2CC8F;fontColor=#393C56;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry y="1" width="180" height="10" relative="1" as="geometry">
+            <mxPoint x="10" y="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-29" value="New User" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#393C56;align=left;spacingLeft=0;resizeWidth=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry y="1" width="150" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="-70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-30" value="SIGN UP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#393C56;fillColor=#F2CC8F;fontSize=16;fontStyle=1;labelBackgroundColor=none;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-32" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_1;pointerEvents=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-19">
+          <mxGeometry x="70" y="110" width="45" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-31" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#E07A5F;textColor=#666666;textColor2=#008cff;mainText=Layer 1,Layer 2,+Layer 3,Layer 4;textSize=17;fillColor=#F2CC8F;overflow=fill;fontSize=17;fontColor=#393C56;labelBackgroundColor=none;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="210" y="660" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-34" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#E07A5F;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;rotation=-180;labelBackgroundColor=none;fillColor=#F2CC8F;fontColor=#393C56;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="70" y="160" width="10" height="503" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-39" value="&lt;h1&gt;GEEZ&lt;/h1&gt;&lt;h3&gt;Habesha store&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;glass=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;labelBorderColor=none;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="230" y="180" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-44" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#E07A5F;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=#F2CC8F;fontColor=#393C56;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="640" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/4-Shopping_Bag-128.png;imageBackground=default;fontStyle=2;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="230" y="185" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="UCwTUBaybLPNziN7kzde-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-71/24/047_-_Menu-128.png;imageBorder=#f2cc8f;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="UCwTUBaybLPNziN7kzde-2">
+          <mxGeometry x="90" y="135" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
